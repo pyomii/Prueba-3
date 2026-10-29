@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Prueba_3" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Prueba_3.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
